@@ -146,16 +146,7 @@ Building this project helped me practice:
 * Accessibility attributes
 * Interactive UI states
 
-## 🔮 Future Improvements
 
-* Add difficulty levels
-* Add countdown mode
-* Add different emoji themes
-* Add leaderboard
-* Add dark mode
-* Add game statistics
-* Add multiplayer mode
-* Add localStorage for persistent high scores
 
 ## 👨‍💻 Author
 
