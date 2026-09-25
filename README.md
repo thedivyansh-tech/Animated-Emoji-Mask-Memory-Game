@@ -148,7 +148,6 @@ Building this project helped me practice:
 
 ## 🔮 Future Improvements
 
-* Add sound effects
 * Add difficulty levels
 * Add countdown mode
 * Add different emoji themes
